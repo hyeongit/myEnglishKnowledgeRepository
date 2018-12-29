@@ -10,3 +10,6 @@ Be attributed to ~: ~에 기인하다 (주어가 결과 목적어가 원인)
 
 Immense: 엄청난, 어마어마한
 'immense interest'
+
+Usher in~: ~이 시작되게 하다
+'The advent of two-dimensional metamaterials in recent years has ushered in a revolutionary means to manipulate the behavior of the ligh on the nano scale.'
