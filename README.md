@@ -13,3 +13,8 @@ Immense: 엄청난, 어마어마한
 
 Usher in~: ~이 시작되게 하다
 'The advent of two-dimensional metamaterials in recent years has ushered in a revolutionary means to manipulate the behavior of the ligh on the nano scale.'
+
+render: 만들다, 주다, 제공하다
+
+identify: 찾다, 발견하다
+'In this work, we identify a solution.'
