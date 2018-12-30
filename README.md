@@ -18,3 +18,7 @@ render: 만들다, 주다, 제공하다
 
 identify: 찾다, 발견하다
 'In this work, we identify a solution.'
+
+assimilate: 흡수하, 동화되다, 완전히 이해하다
+
+candidate: 지원자, ~할 가능성이 큰 사람
